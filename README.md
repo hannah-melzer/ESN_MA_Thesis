@@ -1,6 +1,6 @@
 # My Thesis
 
-Welcome to my thesis repository! This project is based on and extends the work of the following repositories:
+Welcome to my thesis repository! This project is based on and extends the work of the following repositories from:
 
 - [Jacob Felding](https://github.com/jfelding/esn/tree/master)
 - [Niklas Heim](https://github.com/nmheim/esn)
@@ -8,3 +8,7 @@ Welcome to my thesis repository! This project is based on and extends the work o
 ## Notes
 
 You can view my detailed research notes here: [View Notes](docs/notes.md)
+
+## Code
+
+will follow ...
