@@ -67,3 +67,4 @@ I found that following parameters yield the best results (from run 15):
 **Animation of Run 15**
 
 [Animation](./comparison_15.mp4) 
+
