@@ -58,8 +58,7 @@ I found that following parameters yield the best results (from run 15):
 - N_PC = 350
 - sigma = (0.2, 2, 2)
 
-**Plot of the MSE of Run 15**
-https://github.com/user-attachments/files/19286021/MSE_plot_15.pdf
+![**Plot of the MSE of Run 15**](https://github.com/user-attachments/files/19286021/MSE_plot_15.pdf)
 
 
 **Animation of Run 15**
