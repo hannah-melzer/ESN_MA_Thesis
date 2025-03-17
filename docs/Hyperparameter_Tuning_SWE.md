@@ -52,9 +52,15 @@ According to Jacob's thesis the most essential parameters, to which the ESN reac
 
 **Summary** 
 
-I found that following parameters yield the best results: 
+I found that following parameters yield the best results (from run 15): 
 
 - k = 0.001
 - N_PC = 350
 - sigma = (0.2, 2, 2)
 
+**Plot of the MSE of Run 15**
+https://github.com/user-attachments/files/19286021/MSE_plot_15.pdf
+
+
+**Animation of Run 15**
+https://github.com/user-attachments/assets/d6bd4a96-2164-4bc7-b221-bc80c7f8cccd
