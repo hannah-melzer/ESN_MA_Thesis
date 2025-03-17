@@ -9,6 +9,10 @@ Welcome to my thesis repository! This project is based on and extends the work o
 
 You can view my detailed research notes here: [View Notes](docs/notes.md)
 
+## Workflow
+
+Hyperparameter Tuning of SWE Mar. 17th  [View Hyperparameter Testing](docs/Hyperparameter_Tuning_SWE.md)
+
 ## Code
 
 will follow ...
