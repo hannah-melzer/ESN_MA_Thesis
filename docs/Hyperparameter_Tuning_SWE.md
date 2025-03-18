@@ -71,7 +71,7 @@ I found that following parameters yield the best results (from run 15):
 
 An animation of the whole evolution can be found here
 
-[shallow2D_4500_128_128](./Anim_4500_128_128)
+[shallow2D_4500_128_128](./Anim_4500_128_128.mp4)
 
 An upload of the data was unfortunately not possible due to size limitations
 
