@@ -12,6 +12,6 @@ However, it was also Jacob who stressed the point that we should prefer an esn w
 
 - optimal hyperparameter settings described [here](/Hyperparameter_Tuning_SWE.md)
 
-![MSE](/MSE_plot_23.png)
-[Animation](/comparasion_23.mp4)
+![MSE](docs/MSE_plot_23.png)
+[Animation](docs/comparasion_23.mp4)
 
