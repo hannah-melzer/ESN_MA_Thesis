@@ -23,7 +23,7 @@ However, it was also Jacob who stressed the point that we should prefer an esn w
 ![MSE](./MSE_plot_23.png)
 
 
-[Animation](./comparasion_23.mp4)
+[Animation](./comparison_23.mp4)
 
 An animation of the whole evolution can be found here
 
@@ -41,7 +41,7 @@ An upload of the data was unfortunately not possible due to size limitations. No
 ![MSE](./MSE_plot_24.png)
 
 
-[Animation](./comparasion_24.mp4)
+[Animation](./comparison_24.mp4)
 
 **Run 25** 
 
