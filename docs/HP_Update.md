@@ -18,6 +18,13 @@ However, it was also Jacob who stressed the point that we should prefer an esn w
 
 [Animation](./comparasion_23.mp4)
 
+An animation of the whole evolution can be found here
+
+[shallow2D_4500_128_128](./Anim_4500_128_128_2.mp4)
+
+An upload of the data was unfortunately not possible due to size limitations. Note that Lx, Ly = (500, 400) were changed to (64, 64)
+
+
 **Run 24** 
 
 - set sigma_xy = 3
@@ -34,6 +41,9 @@ However, it was also Jacob who stressed the point that we should prefer an esn w
 - sigma_xy = 2.5
 - still too blurry in my opinion
 - I personally would settle for the HPs **run 23**
+An animation of the whole evolution can be found here
 
+[shallow2D_4500_128_128](./Anim_4500_128_128_3.mp4)
 
-The Name of the Dataset used was "shallow2D_4500_128_128_2.npy"
+An upload of the data was unfortunately not possible due to size limitations.  Note that Lx, Ly = (500, 400) were changed to (64, 64). 
+
