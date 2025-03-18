@@ -1,4 +1,4 @@
-## Adjusting the SWE Model
+## Adjusting the SWE Model w. numerical instabilities
 
 **Here I accidentally created an example by introducing numerical instabilities by setting the domain size smaller than the grid size**
 
