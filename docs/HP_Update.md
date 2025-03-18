@@ -8,14 +8,30 @@ At sigma_xy = 2, mse started to increase drastically as the prediction time went
 
 However, it was also Jacob who stressed the point that we should prefer an esn which captures the dynamic evolution over one that minimizies the mse. 
 
-**Plots for run 23**
+**Run 23**
 
 - optimal hyperparameter settings described [here](./Hyperparameter_Tuning_SWE.md)
 
-  
 
 ![MSE](./MSE_plot_23.png)
 
 
 [Animation](./comparasion_23.mp4)
+
+**Run 24** 
+
+- set sigma_xy = 3
+- prediction got more blurry (as expected)
+- mse didn't improve much, but missed some small scale features
+
+![MSE](./MSE_plot_24.png)
+
+
+[Animation](./comparasion_24.mp4)
+
+**Run 25** 
+
+- sigma_xy = 2.5
+- still too blurry in my opinion
+- I personally would settle for the HPs **run 23**
 
