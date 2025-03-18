@@ -1,6 +1,6 @@
 ## Running the ESN on a more interesting SWE Model 
 
-After adjusting the domain size to Lx, Ly = (256, 256) and shifting the disturbance off centre, I now present some more interesting results. 
+After adjusting the domain size to Lx, Ly = (256, 256) and shifting the disturbance off centre, I now present some more interesting and very promising results about using the ESN to predict the SWE evolution. 
 
 **Run 28 - symmetric**
 
