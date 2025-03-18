@@ -6,7 +6,7 @@ After adjusting the domain size to Lx, Ly = (256, 256) and shifting the disturba
 
 ![MSE](./MSE_plot_28.png)
 
-[Animation](./comparasion_28.mp4)
+[Animation](./comparison_28.mp4)
 
 An animation of the whole evolution can be found here
 
