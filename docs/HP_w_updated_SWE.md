@@ -18,7 +18,7 @@ An upload of the data was unfortunately not possible due to size limitations.
 
 ![MSE](./MSE_plot_29.png)
 
-[Animation](./comparasion_29.mp4)
+[Animation](./comparison_29.mp4)
 
 An animation of the whole evolution can be found here
 
