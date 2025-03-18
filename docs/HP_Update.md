@@ -1,5 +1,12 @@
 ## Adjusting the SWE Model
 
+**Here I accidentally created an example by introducing numerical instabilities by setting the domain size smaller than the grid size**
+
+I only realised this after already writing up this document, which actually helped to find my error and for the sake of completeness, I am including this null-result
+
+---
+
+
 After tuning the model to a simple SWE model with symmetric disturbance, I shifted, the disturbance off centre (to the lower left corner). 
 
 As already pointed out by Jacob, the blurring properties of sigma_xy have a major effect and can become overly sensitive to noise (numerical instabilities). 
