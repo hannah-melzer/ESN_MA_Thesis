@@ -35,3 +35,5 @@ However, it was also Jacob who stressed the point that we should prefer an esn w
 - still too blurry in my opinion
 - I personally would settle for the HPs **run 23**
 
+
+The Name of the Dataset used was "shallow2D_4500_128_128_2.npy"
