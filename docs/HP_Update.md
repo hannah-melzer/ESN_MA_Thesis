@@ -10,8 +10,12 @@ However, it was also Jacob who stressed the point that we should prefer an esn w
 
 **Plots for run 23**
 
-- optimal hyperparameter settings described [here](/Hyperparameter_Tuning_SWE.md)
+- optimal hyperparameter settings described [here](./Hyperparameter_Tuning_SWE.md)
 
-![MSE](docs/MSE_plot_23.png)
-[Animation](docs/comparasion_23.mp4)
+  
+
+![MSE](./MSE_plot_23.png)
+
+
+[Animation](./comparasion_23.mp4)
 
