@@ -13,6 +13,11 @@ You can view my detailed research notes here: [View Notes](docs/notes.md)
 
 Hyperparameter Tuning of SWE Mar. 17th  [View Hyperparameter Testing](docs/Hyperparameter_Tuning_SWE.md)
 
+
+Hyperparameter Tuning of SWE with numerical instabilities Mar. 18th [View Hyperparameter Testing](docs/HP_update_numerical_instabilities.md)
+
+
+
 ## Code
 
 will follow ...
