@@ -49,6 +49,8 @@ see yaml file [here](./esn_arguments_CESM_005.yaml)
 
 [Animation](./comparison_CESM_005.mp4)
 
+A beautiful jupyter notebook can be accessed here. [Link to beautiful notebook](code/Apply_ESN_to_CESM.ipynb)
+
 
 
 
