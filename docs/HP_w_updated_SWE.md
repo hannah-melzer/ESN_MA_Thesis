@@ -2,6 +2,9 @@
 
 After adjusting the domain size to Lx, Ly = (256, 256) and shifting the disturbance off centre, I now present some more interesting and very promising results about using the ESN to predict the SWE evolution. 
 
+
+used optimal hyperparameter settings described [here](./Hyperparameter_Tuning_SWE.md)
+
 **Run 28 - symmetric**
 
 ![MSE](./MSE_plot_28.png)
