@@ -59,6 +59,9 @@ I found that following parameters yield the best results (from run 15):
 - sigma = (0.2, 2, 2)
 
 
+see yaml file for all parameter settings [here](./esn_arguments_15.yaml)
+
+
 **Plot of the MSE of Run 15**
 
 ![**Plot of the MSE of Run 15**](./MSE_plot_15.png)
