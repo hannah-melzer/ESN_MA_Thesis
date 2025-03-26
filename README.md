@@ -15,6 +15,8 @@ Hyperparameter Tuning of SWE with numerical instabilities Mar. 18th [View Hyperp
 
 More interesting SWEs Mar. 19th [View updated SWE preditions](docs/HP_w_updated_SWE.md)
 
+Applying the ESN to CESM Mar 26th [View ESN applied to CESM](docs/Applying_ESN_to_CESM.md)
+
 ## Notes
 
 You can view my notes from meetings and discussions with my supervisors here: [View Notes](docs/notes.md)
