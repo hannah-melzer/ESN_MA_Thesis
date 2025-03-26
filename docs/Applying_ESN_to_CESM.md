@@ -21,6 +21,7 @@ After the successful implementation of ESN onto the SWE, I now proceded to seein
 I did a brief hyperparameter adjustment: 
 - changed dtype = "float64" to "float32" (bc the CESM data had that type)
 - otherwise kept the hyperparameters that the HP Testing yielded, see [here](./Hyperparameter_Tuning_SWE.md)
+- stored in folder CSEM
 
 esn001
 - nPCs = 5
