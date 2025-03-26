@@ -14,6 +14,7 @@ After the successful implementation of ESN onto the SWE, I now proceded to seein
 **Problems I have encountered**
 - the data is **very** large
   <br> --> pre-processing with nco required (even for 81 files it took several hours)
+- there were NaNs in the data that the ESN couldn't handle, so I set them to zero **(this could potentially lead to problems!)**
 
 **Hyperparameter Tuning**
 
