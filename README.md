@@ -17,6 +17,8 @@ More interesting SWEs Mar. 19th [View updated SWE preditions](docs/HP_w_updated_
 
 Applying the ESN to CESM - Kuroshio example Mar 26th [View ESN applied to CESM](docs/Applying_ESN_to_CESM.md)
 
+Applying the ESN to CESM using the full dataset! - Kuroshio Region April 8th [View Kuro](docs/Kuro.md)
+
 ## Notes
 
 You can view my notes from meetings and discussions with my supervisors here: [View Notes](docs/notes.md)
