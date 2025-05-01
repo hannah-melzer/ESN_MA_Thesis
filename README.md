@@ -19,6 +19,8 @@ Applying the ESN to CESM - Kuroshio example Mar 26th [View ESN applied to CESM](
 
 Applying the ESN to CESM using the full dataset! - Kuroshio Region April 8th [View Kuro](docs/Kuro.md)
 
+New, improved plotting routine with anomaly detection! - Kuroshio Region April 29th [View Kuro_new](docs/Kuro_new.md)
+
 ## Notes
 
 You can view my notes from meetings and discussions with my supervisors here: [View Notes](docs/notes.md)
