@@ -25,9 +25,6 @@ New, improved plotting routine with anomaly detection! - Kuroshio Region April 2
 
 You can view my notes from meetings and discussions with my supervisors here: [View Notes](docs/notes.md)
 
-https://hannah-melzer.github.io/ESN_MA_Thesis/comparison_48.mp4
-
-
 ## Code
 
 will follow ...
