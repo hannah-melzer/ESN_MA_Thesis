@@ -2,7 +2,7 @@
 
 For hyperparameters see [here](./esn_arguments_48.yaml)
 
-[▶ Watch Animation Inline](https://hannah-melzer.github.io/ESN_MA_Thesis/video.html)
+[▶ Watch Animation Inline](https://hannah-melzer.github.io/ESN_MA_Thesis/docs/video.html)
 
 
 ![MSE](./MSE_plot_48.png)
