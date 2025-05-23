@@ -20,6 +20,6 @@ Additionally I found a further dependence on the random weights operation, where
 ![random](./rand.png)
 
 
-One parameter setting, I was satisfied with, is described [here](./docs/esn_arguments_45.yaml)
+One parameter setting, I was satisfied with, is described [here](./esn_arguments_45.yaml)
 
-And the animation is available [here](./docs/comparison_45.mp4)
+And the animation is available [here](./comparison_45.mp4)
