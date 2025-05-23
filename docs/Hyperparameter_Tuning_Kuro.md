@@ -4,7 +4,7 @@ After many tries, I realised that there's a particular dependence on the input m
 
 The input mappings/ operations are defined as followed: 
 
-![vorticity](./vort)
+![vorticity](./vort.png)
 
 
 note that I modified the original code by Jacob to substract the mean vorticity
@@ -12,12 +12,12 @@ note that I modified the original code by Jacob to substract the mean vorticity
 
 and 
 
-![gradient](./grad)
+![gradient](./grad.png)
 
 
 Additionally I found a further dependence on the random weights operation, where a too small factor led to overfitting and the model becoming unphysically turbulent with time. 
 
-![random](./rand)
+![random](./rand.png)
 
 
 One parameter setting, I was satisfied with, is described [here](./docs/esn_arguments_45.yaml)
