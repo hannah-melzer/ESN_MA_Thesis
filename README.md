@@ -6,6 +6,11 @@ Welcome to my thesis repository! This project is based on and extends the work o
 - [Niklas Heim](https://github.com/nmheim/esn)
 - [Heim & Avery 2019](https://github.com/nmheim/torsk/tree/master)
 
+
+## Presentations
+
+Presentation for the OD seminar after 3 months [View pres](docs/Spatial Echo_State_Networks_for_Oceanographic_Data_Analysis.pdf)
+
   
 ## Workflow
 
