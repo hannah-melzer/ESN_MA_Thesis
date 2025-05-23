@@ -15,9 +15,17 @@ Thus, we receive a detrended version and a cycle component, which is the average
 ![Cycle](./Cycle_Kuro.png)
 
 
-
 ![Time_ser](./Time_ser_Kuro.png)
 
 
 ![Time_ser_1year](./Time_ser_1year_Kuro.png)
+
+I also found a nice hyperparameter setting for the detrended fields, documented [here](./esn_arguments_47.yaml)
+
+and see animation [here](./comparison_47.mp4)
+
+However, the model gets too eddying/ turbulent if used with too long prediction times, as illustrated [here](./comparison_46.mp4)
+
+
+
 
