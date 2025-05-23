@@ -1,4 +1,4 @@
-#### **Detrending**
+#### **<u>Detrending<u>**
 
 First I re-sampled the dataset, so we now have 5 daily data instead of 3 daily i.e. the number of days in a year is an integer. 
 
