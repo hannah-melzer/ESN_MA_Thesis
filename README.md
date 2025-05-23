@@ -26,7 +26,7 @@ Applying the ESN to CESM using the full dataset! - Kuroshio Region April 8th [Vi
 
 New, improved plotting routine with anomaly detection! - Kuroshio Region April 29th [View Kuro_new](docs/kuro_new.md)
 
-Detrending the time series [View detrending](docs/detrend.md)
+Detrending the time series May 23rd [View detrending](docs/detrend.md)
 
 ## Notes
 
