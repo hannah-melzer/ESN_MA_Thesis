@@ -20,6 +20,10 @@ Thus, we receive a detrended version and a cycle component, which is the average
 
 ![Time_ser_1year](./Time_ser_1year_Kuro.png)
 
+
+The respective jupyter notebook can be accessed [here](/code/detrend_notebook.ipynb) 
+
+
 I also found a nice hyperparameter setting for the detrended fields, documented [here](./esn_arguments_47.yaml)
 
 and see animation [here](./comparison_47.mp4)
