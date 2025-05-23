@@ -6,7 +6,7 @@ Then I fitted a quadratic function to the data - the polynomial trend using the 
 
 Thus, we receive a detrended version and a cycle component, which is the average year (average cycle in general). This can also be used to then reconstruct and predict the future as a simple prediction model to showcase our beautiful ESN.
 
-![Original](./Original_Kuro.png)
+![Original](./Orginal_Kuro.png)
 
 
 ![Detrended](./Detrended_Kuro.png)
@@ -14,8 +14,6 @@ Thus, we receive a detrended version and a cycle component, which is the average
 
 ![Cycle](./Cycle_Kuro.png)
 
-
-![Original](./Original_Kuro.png)
 
 
 ![Time_ser](./Time_ser_Kuro.png)
