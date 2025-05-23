@@ -9,7 +9,7 @@ Welcome to my thesis repository! This project is based on and extends the work o
 
 ## Presentations
 
-Presentation for the OD seminar after 3 months [View pres](docs/Spatial Echo_State_Networks_for_Oceanographic_Data_Analysis.pdf)
+Presentation for the OD seminar after 3 months [View pres](docs/Spatial_Echo_State_Networks_for_Oceanographic_Data_Analysis.pdf)
 
   
 ## Workflow
