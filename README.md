@@ -28,6 +28,8 @@ New, improved plotting routine with anomaly detection! - Kuroshio Region April 2
 
 Detrending the time series May 23rd [View detrending](docs/detrend.md)
 
+Hyperparameter Testing and Finetuning Kuroshio May 26th [View HP Testing Kuro](docs/Hyperparameter_Tuning_Kuro.md)
+
 ## Notes
 
 You can view my notes from meetings and discussions with my supervisors here: [View Notes](docs/notes.md)
