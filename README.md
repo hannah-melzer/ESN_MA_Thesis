@@ -37,7 +37,9 @@ You can view my notes from meetings and discussions with my supervisors here: [V
 Notes & Comments from the OD presentation [Notes OD seminar](docs/OD_meeting_notes.pdf) 
 
 Supervisor Meeting/ Discussion [View Notes](docs/Supervisor_Meeting_May_30th.pdf)
+
 [Stephan & Hannah](docs/May_30th_Stephan_Hannah.pdf)
+
 [James & Hannah](docs/May_30th_James_Hannah.pdf)
 
 ## Code
