@@ -6,11 +6,6 @@ Welcome to my thesis repository! This project is based on and extends the work o
 - [Niklas Heim](https://github.com/nmheim/esn)
 - [Heim & Avery 2019](https://github.com/nmheim/torsk/tree/master)
 
-
-## Presentations
-
-Presentation for the OD seminar after 3 months [View pres](docs/Spatial_Echo_State_Networks_for_Oceanographic_Data_Analysis.pdf)
-
   
 ## Workflow
 
@@ -30,6 +25,7 @@ Detrending the time series May 23rd [View detrending](docs/detrend.md)
 
 Hyperparameter Testing and Finetuning Kuroshio May 26th [View HP Testing Kuro](docs/Hyperparameter_Tuning_Kuro.md)
 
+
 ## Notes
 
 You can view my notes from meetings and discussions with my supervisors here: 
@@ -43,6 +39,12 @@ Supervisor Meeting/ Discussion May 30th [View Notes](docs/Supervisor_Meeting_May
 May 30th [Stephan & Hannah](docs/May_30th_Stephan_Hannah.pdf)
 
 May 30th [James & Hannah](docs/May_30th_James_Hannah.pdf)
+
+
+## Presentations
+
+Presentation for the OD seminar after 3 months [View pres](docs/Spatial_Echo_State_Networks_for_Oceanographic_Data_Analysis.pdf)
+
 
 ## Code
 
