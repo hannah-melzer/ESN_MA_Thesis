@@ -40,9 +40,9 @@ Notes & Comments from the OD presentation May 22nd [Notes OD seminar](docs/OD_me
 
 Supervisor Meeting/ Discussion May 30th [View Notes](docs/Supervisor_Meeting_May_30th.pdf)
 
-[Stephan & Hannah](docs/May_30th_Stephan_Hannah.pdf)
+May 30th [Stephan & Hannah](docs/May_30th_Stephan_Hannah.pdf)
 
-[James & Hannah](docs/May_30th_James_Hannah.pdf)
+May 30th [James & Hannah](docs/May_30th_James_Hannah.pdf)
 
 ## Code
 
