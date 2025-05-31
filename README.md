@@ -32,7 +32,9 @@ Hyperparameter Testing and Finetuning Kuroshio May 26th [View HP Testing Kuro](d
 
 ## Notes
 
-You can view my notes from meetings and discussions with my supervisors here: [View Notes](docs/notes.md)
+You can view my notes from meetings and discussions with my supervisors here: 
+
+First Meeting with James and Markus March 13th [View Notes](docs/13032025.md)
 
 Notes & Comments from the OD presentation May 22nd [Notes OD seminar](docs/OD_meeting_notes.pdf) 
 
