@@ -48,4 +48,4 @@ Presentation for the OD seminar after 3 months [View pres](docs/Spatial_Echo_Sta
 
 ## Code
 
-will follow ...
+Data Pre-Processing steps are outlined in the Jupyter Notebook [here](code/Data_Preprocessing)
