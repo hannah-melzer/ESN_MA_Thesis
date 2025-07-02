@@ -27,7 +27,7 @@ Hyperparameter Testing and Finetuning Kuroshio May 26th [View HP Testing Kuro](d
 
 Data Pre-processing July 1st [View Pre-processing](code/Data_Preprocessing)
 
-Look at Input Maps July 1st [Input Maps](code/Input_Maps.ipynb)
+Look at Input Maps July 1st [Input Maps](code/Input_Plots.ipynb)
 
 
 ## Notes
