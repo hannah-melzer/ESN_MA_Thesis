@@ -1,7 +1,7 @@
 This code section includes:
 
-
-- Data Preprocessing
-- detrend
-- Input Maps
-- Kuro HP tuning 
+- entire ESN architecture in esn_dev
+- Data Preprocessing & detrending
+- Input Maps Visulization
+- Kuro HP tuning
+- Anomaly Detection
