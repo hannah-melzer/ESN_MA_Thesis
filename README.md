@@ -49,7 +49,13 @@ May 30th [James & Hannah](docs/May_30th_James_Hannah.pdf)
 
 Presentation for the OD seminar after 3 months [View pres](docs/Spatial_Echo_State_Networks_for_Oceanographic_Data_Analysis.pdf)
 
-
 ## Code
 
-Data Pre-Processing steps are outlined in the Jupyter Notebook [here](code/Data_Preprocessing)
+includes:
+
+- entire ESN architecture [here](code/esn_dev)
+- Data Preprocessing & detrending toolboxes [here](code/Data_Preprocessing)
+- Input Maps Visulization [here](code/Input_Plots.ipynb)
+- Kuro HP tuning example [here](code/Kuro_Example)
+- Anomaly Detection toolbox [here](code/Anomaly_detection)
+
