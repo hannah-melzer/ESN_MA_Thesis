@@ -56,6 +56,6 @@ includes:
 - entire ESN architecture [here](code/esn_dev)
 - Data Preprocessing & detrending toolboxes [here](code/Data_Preprocessing)
 - Input Maps Visulization [here](code/Input_Plots.ipynb)
-- Kuro HP tuning example [here](code/Kuro_HP_Example)
+- Kuro HP tuning example [here](code/Kuro_HP_example)
 - Anomaly Detection toolbox [here](code/Anomaly_detection)
 
